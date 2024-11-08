@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/ethereum/remix-project/issues"
   },
-  "homepage": "https://github.com/ethereum/remix-project#readme",
+  "homepage": "https://stabilityprotocol.github.io/remix-project/",
   "bin": {
     "remix-ide": "./apps/remix-ide/bin/remix-ide"
   },
