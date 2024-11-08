@@ -77,7 +77,8 @@ export const evmMap: Map<HardFork, { chainId: ChainInfo[], minCompilerVersion: s
       { id: 534352, name: "Scroll" },
       { id: 11155111, name: "Sepolia" },
       { id: 11155420, name: "Optimism Sepolia Testnet" },
-      { id: 1666600000, name: "Harmony Mainnet Shard 0" }
+      { id: 101010, name: "Stability - GTN" },
+      { id: 20180427, name: "Stability Testnet" }
     ],
     minCompilerVersion: "0.8.20+commit.a1b79de6",
     evmVersion: 'shanghai'
